@@ -22,13 +22,13 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<code>/filter name reply</code>  -  Add filter for name
 
 <code>/del name</code>  -  Delete filter
 
 <code>/delall</code>  -  Delete entire filters (Group Owner Only!)
 
-<code>/viewfilters</code>  -  List all filters in chat
+<code>/filters</code>  -  List all filters in chat
 
 
 <b>Connection Commands;</b>
